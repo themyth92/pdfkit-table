@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/natancabral/pdfkit-table#readme",
   "dependencies": {
-    "pdfkit": "latest"
+    "pdfkit": "0.15.2"
   }
 }
